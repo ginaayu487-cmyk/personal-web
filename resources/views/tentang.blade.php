@@ -2,34 +2,30 @@
 @section('title', 'Tentang')
 
 @section('content')
-<h1 class="page-title">Tentang dia.</h1>
-<p class="page-lead">Ganti nama dan cerita di bawah dengan orang yang kamu pilih: teman, pasangan, atau siapa saja.</p>
+<h1 class="page-title">Tentang aku.</h1>
+<p class="page-lead">Mahasiswa Informatika di INSTIKI Bali.</p>
 
 <section class="journey about">
   <div class="dots" aria-hidden="true"></div>
   <div class="col-title">
-    <h2>Nama Temanmu</h2>
-    <p>Orang yang bikin hari-hari terasa lebih ringan.</p>
+    <h2>Halo, aku<br>Naya.</h2>
+    <p>Web, teknologi, dan sedikit gunung.</p>
   </div>
   <div class="col-body">
     <article>
-      <h3>Pertama kali bertemu</h3>
-      <p>Tulis cerita singkat kapan dan di mana kalian pertama kali bertemu.</p>
+      <h3>Siapa aku</h3>
+      <p>Halo! Saya Naya, mahasiswa Informatika di INSTIKI Bali yang tertarik pada pengembangan web dan teknologi. Saat ini saya sedang aktif mengeksplorasi pembuatan aplikasi web modern menggunakan PHP dan Laravel, serta senang mengubah ide menjadi tampilan antarmuka yang fungsional dan nyaman digunakan.</p>
     </article>
     <article>
-      <h3>Hal yang aku suka darinya</h3>
-      <p>Ceritakan sifat atau kebiasaan yang membuatnya istimewa menurutmu.</p>
-    </article>
-    <article>
-      <h3>Kenangan favorit</h3>
-      <p>Satu momen yang paling sulit dilupakan, dan alasan kenapa itu berarti.</p>
+      <h3>Hobi</h3>
+      <p>Di luar aktivitas ngoding dan kuliah, saya senang menjaga kebugaran dengan rutin berolahraga di gym dan jogging. Saat butuh suasana baru, saya suka mendaki gunung untuk menikmati alam, atau bersantai dengan menonton film dan bermain PlayStation bersama teman.</p>
     </article>
   </div>
 </section>
 
 <section class="grid">
   <section class="tile chat" style="grid-column:1/-1">
-    <h2>Kirim pesan untuknya</h2>
+    <h2>Kirim pesan untuk Naya</h2>
     <div class="msgs" id="msgs" aria-live="polite">
       <p class="them">Hai! Ada yang mau disampaikan?</p>
     </div>
