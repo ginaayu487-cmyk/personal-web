@@ -12,7 +12,7 @@
 
   <aside class="tile photo-hero">
     <!-- GANTI: asset('images/hero.jpg') -->
-    <img src="https://picsum.photos/seed/nadia-hero/600/800" alt="Foto utama" data-fallback>
+    <img src="{{ asset('images/foto1.jpeg') }}" alt="Foto Naya" data-fallback>
     <span class="sticker">★ halo!</span>
   </aside>
 
